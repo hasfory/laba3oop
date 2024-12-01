@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Mobile phone",
+    "Description": "Something you can play Brawl Stars on",
+    "ID": "1"
+  },
+  {
+    "Name": "Coffee",
+    "Description": "A drink that gives you energy for the whole day",
+    "ID": "2"
+  },
+  {
+    "Name": "Cream",
+    "Description": "Moisturizer for face or body skin",
+    "ID": "3"
+  }
+]
